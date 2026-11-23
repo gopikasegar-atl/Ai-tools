@@ -1,0 +1,16 @@
+Act as an experienced Computer Lab In-Charge. Create a weekly computer lab schedule for 3 batches that share one computer laboratory.
+Follow these instructions:
+Divide the lab sessions equally among the 3 batches.
+Schedule sessions from Monday to Friday.
+Ensure that only one batch uses the computer lab at a time.
+Avoid overlapping lab sessions.
+Include suitable time slots for each batch.
+Provide equal lab hours for all three batches.
+Make sure the schedule is practical and easy to follow.
+Present the final schedule in a clear table with these columns:
+Day
+Time Slot
+Batch 1
+Batch 2
+Batch 3
+Also include a short explanation
